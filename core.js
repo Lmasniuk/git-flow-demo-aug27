@@ -6,5 +6,3 @@ const answer = "Because they can't even!";
 const foo = "test2";
 
 const noDaysOff = "code code code";
-
-console.log("feature-ara");
